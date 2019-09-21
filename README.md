@@ -1,6 +1,6 @@
 # Team Waste - Shiny Dashboard
 
-![Screenshot1.png](/Users/davidbird/codeclan_work/dashboard_project/team-waste-viz/images/Screenshot1.png)
+![Screenshot1.png](https://github.com/daviddbird/team-waste-viz/blob/master/images/Screenshot1.png)
 
 ### Introduction
 This repro shows an example of visualising waste processing for local authorities and the number of levels of processing that can happen until the waste reaches it's final destination. The data populating this dashboard has been synthetically created and is not actual data. It has been created for the purposes of illustrating the dashboard only.
@@ -19,9 +19,9 @@ Following presentation to the client, the data was replaced with [synthetic data
 David Bird, Jenny Wales and Matthew Moffitt.
 
 ### Images
-![Screenshot2.png](/Users/davidbird/codeclan_work/dashboard_project/team-waste-viz/images/Screenshot2.png)
-![Screenshot3.png](/Users/davidbird/codeclan_work/dashboard_project/team-waste-viz/images/Screenshot3.png)
-![Screenshot1.png](/Users/davidbird/codeclan_work/dashboard_project/team-waste-viz/images/Screenshot4.png)
+![Screenshot2.png](https://github.com/daviddbird/team-waste-viz/blob/master/images/Screenshot2.png)
+![Screenshot3.png](https://github.com/daviddbird/team-waste-viz/blob/master/images/Screenshot3.png)
+![Screenshot1.png](https://github.com/daviddbird/team-waste-viz/blob/master/images/Screenshot4.png)
 
 ### Credits
 Office for National Statistics (2011). 2011 Census: boundary data (England and Wales) [data collection].
