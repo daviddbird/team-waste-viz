@@ -3,9 +3,9 @@
 ![Screenshot1.png](https://github.com/daviddbird/team-waste-viz/blob/master/images/Screenshot1.png)
 
 ### Introduction
-This repro shows an example of visualising waste processing for local authorities and the number of levels of processing that can happen until the waste reaches it's final destination. The data populating this dashboard has been synthetically created and is not actual data. It has been created for the purposes of illustrating the dashboard only.
+This repro shows an example of visualising waste processing for local authorities and the number of levels of processing that can happen until the waste reaches its final destination. The data populating this dashboard has been synthetically created and is not actual data. It has been created for the purposes of illustrating the dashboard only.
 
-The dashboard was build using R Shiny as part of a group project at [CodeClan's](https://codeclan.com) Data Analysis course in Edinburgh.
+The dashboard was built using R Shiny as part of a group project at [CodeClan's](https://codeclan.com) Data Analysis course in Edinburgh.
 
 ### Processing steps
 The data was provided in an Excel spreadsheet along with a data dictionary. After reading and becoming familiar with the data dictionary, we were able to determine the key fields to include and identify some features we would need to create. Regular expressions were used to pull out postcode information where possible. This postcode file was then run through a [geocoding service](https://www.doogal.co.uk/BatchGeocoding.php) to fetch the latitude and longitude information required for mapping.
